@@ -65,7 +65,6 @@ Your uploaded file should include these columns:
 | `amount` | yes | `-85.40` |
 | `type` | no | `Expense` or `Income` |
 
-Positive amounts are treated as income. Negative amounts are treated as expenses.
 
 ## How to run locally
 
