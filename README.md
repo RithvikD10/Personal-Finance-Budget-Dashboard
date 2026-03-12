@@ -67,24 +67,6 @@ Your uploaded file should include these columns:
 
 Positive amounts are treated as income. Negative amounts are treated as expenses.
 
-## Screenshots
-
-### Dashboard overview
-
-![Dashboard overview](assets/dashboard_overview.png)
-
-### Category breakdown
-
-![Category breakdown](assets/category_breakdown.png)
-
-### Expense forecast
-
-![Expense forecast](assets/expense_forecast.png)
-
-### Monthly expense mix
-
-![Expense mix](assets/expense_mix.png)
-
 ## How to run locally
 
 ### 1. Clone the repository
